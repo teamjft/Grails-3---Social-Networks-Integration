@@ -572,3 +572,40 @@ img.grails-logo {
     height:340px;
     margin-top:-10px;
 }
+
+.register-header{
+
+}
+
+.login-header{
+
+}
+.page-container {
+    width: 75%;
+    height: 100%;
+    background-color:#ebebeb;
+    margin-left:auto;
+    margin-right: auto;
+    border: 1px solid black;
+}
+
+.register-box {
+    float: left;
+    margin-top: 3%;
+    width: 35%;
+    height: 40%;
+    margin-left: 2%;
+    border: 2px solid black;
+}
+.login-box {
+    float: left;
+    margin-top: 3%;
+    width: 35%;
+    height: 40%;
+    margin-left: 10%;
+    border: 2px solid black;
+}
+
+.center{
+    margin-left: 30%;
+}

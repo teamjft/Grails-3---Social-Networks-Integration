@@ -23,6 +23,9 @@ endpoints:
     enabled: false
     jmx:
         enabled: true
+server:
+  context-path: /oauth
+  port: 8080
 
 ---
 grails:
